@@ -1,0 +1,29 @@
+{
+  "title": "Senior Full Stack Developer",
+  "company": "Onelogica",
+  "location": "San Francisco, CA",
+  "type": "full-time",
+  "level": "senior",
+  "description": "We are looking for an experienced Full Stack Developer to join our growing team. You will be responsible for developing and maintaining web applications using modern technologies.",
+  "requirements": [
+    "React.js and modern JavaScript frameworks",
+    "Node.js and Express.js",
+    "Database design (PostgreSQL/MongoDB)",
+    "RESTful API development",
+    "Git version control",
+    "5+ years of web development experience"
+  ],
+  "preferredSkills": [
+    "TypeScript",
+    "AWS or cloud platforms",
+    "Docker and containerization",
+    "GraphQL",
+    "Agile/Scrum methodologies"
+  ],
+  "experience": 5,
+  "salary": {
+    "min": 120000,
+    "max": 180000,
+    "currency": "USD"
+  }
+}
